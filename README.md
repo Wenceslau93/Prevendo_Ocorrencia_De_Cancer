@@ -1,5 +1,5 @@
 # Prevendo_Ocorrencia_De_Cancer
-Este projeto tem como objetivo, prever se a pessoa vai ter Câncer benigmo ou maligmo.
+Este projeto tem como objetivo, prever se a pessoa vai ter Câncer benigno ou maligno.
 
 <br/>
 <br/>
