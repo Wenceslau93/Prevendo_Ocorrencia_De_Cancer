@@ -1,4 +1,4 @@
-# Prevendo Ocorrencia De Cancer
+# Prevendo Ocorrencia De Câncer
 
 Este projeto tem como objetivo, prever se a pessoa vai ter Câncer benigno ou maligno.
 
